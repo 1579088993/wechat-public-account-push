@@ -95,17 +95,17 @@ const USER_CONFIG = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: '儿子',
+      name: '宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oKHZY6-2lN71_mQXldEgESI1atYM',
+      id: 'oKHZY67yMMsEVgZXHyPDEcbpxe-g',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '_dplWAzkajKLGtbtkHOrFU1Jhhgb0jhqwIXRBV79LUE',
       // 所在省份或城市，也可以不填
-      province: '北京',
+      province: '广西',
       // 所在城市或县区
-      city: '海淀',
+      city: '贵港',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
-      horoscopeDate: '12-27',
+      horoscopeDate: '07-08',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
       horoscopeDateType: '今日',
        // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
@@ -114,11 +114,11 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '宝贝', year: '1996', date: '09-09',
+          type: '*生日', name: '宝贝', year: '1998', date: '05-15',
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '生日', name: '李四', year: '1996', date: '09-31',
+          type: '生日', name: '宝贝', year: '1996', date: '09-31',
         },
         {
           type: '节日', name: '相识纪念日', year: '2020', date: '09-03',
