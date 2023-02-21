@@ -99,7 +99,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oKHZY67yMMsEVgZXHyPDEcbpxe-g',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '_dplWAzkajKLGtbtkHOrFU1Jhhgb0jhqwIXRBV79LUE',
+      useTemplateId: '4Y7vI3Q8aO29TAWQy7MudLo-GZDb_aY7-TwIxUlFbtk',
       // 所在省份或城市，也可以不填
       province: '广西',
       // 所在城市或县区
