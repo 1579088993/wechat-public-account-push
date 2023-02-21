@@ -1,8 +1,8 @@
 /* eslint-disable */
 const TEMPLATE_CONFIG = [
   {
-    id: 'W4KT1_-stHgmA2cdbddG69xEzmGsxowF3n1denc_w_M',
-    title: '亲爱的, 早上好',
+    id: 'AnHaHJZi4djYSkpJzTnwlIC_4bNU8IgFsyAXqphMO2I',
+    title: '小兔子宝贝, 早上好',
     desc: `
       **{{date.DATA}}**
       
