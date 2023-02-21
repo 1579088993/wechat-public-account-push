@@ -30,16 +30,16 @@ const USER_CONFIG = {
     CIBA: false,
     
     // 每日一言, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    oneTalk: false,
+    oneTalk: true,
     
     // 土味情话(彩虹屁), 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    earthyLoveWords: false,
+    earthyLoveWords: true,
     
     // 朋友圈文案, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
     momentCopyrighting: false,
     
     // 毒鸡汤, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    poisonChickenSoup: false,
+    poisonChickenSoup: true,
     
     // 古诗古文, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
     poetry: false,
@@ -127,7 +127,7 @@ const USER_CONFIG = {
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
-        { keyword: 'love_day', date: '2021-01-06' },
+        { keyword: 'love_day', date: '2022-01-06' },
         // 结婚纪念日
         //{ keyword: 'marry_day', date: '2022-09-09' },
       ],
