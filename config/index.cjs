@@ -99,7 +99,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oKHZY67yMMsEVgZXHyPDEcbpxe-g',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '4Y7vI3Q8aO29TAWQy7MudLo-GZDb_aY7-TwIxUlFbtk',
+      useTemplateId: 'io4wxLozlbZuTsA6fdnQuDNmMRzlf8x_KhQgHu558gQ',
       // 所在省份或城市，也可以不填
       province: '广西',
       // 所在城市或县区
@@ -113,16 +113,16 @@ const USER_CONFIG = {
       // 专属节日提醒，如果你在这里填写了节日提醒，就不会执行FESTIVALS的提醒了, 和FESTIVALS的配置方法相同，可以往下查看，我这里就不重复写了
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
-        {
-          type: '*生日', name: '宝贝', year: '1998', date: '05-15',
-        },
+//         {
+//           type: '*生日', name: '宝贝', year: '1998', date: '05-15',
+//         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '生日', name: '宝贝', year: '1996', date: '09-31',
+          type: '生日', name: '宝贝', year: '1998', date: '07-08',
         },
-        {
-          type: '节日', name: '相识纪念日', year: '2020', date: '09-03',
-        },
+//         {
+//           type: '节日', name: '相识纪念日', year: '2020', date: '09-03',
+//         },
       ],
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
