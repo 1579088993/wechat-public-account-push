@@ -1,7 +1,7 @@
 /* eslint-disable */
 const TEMPLATE_CONFIG = [
   {
-    id: '4Y7vI3Q8aO29TAWQy7MudLo-GZDb_aY7-TwIxUlFbtk',
+    id: 'io4wxLozlbZuTsA6fdnQuDNmMRzlf8x_KhQgHu558gQ',
     title: '亲爱的, 早上好',
     desc: `
       **{{date.DATA}}**
@@ -20,19 +20,21 @@ const TEMPLATE_CONFIG = [
       
       风级: {{wind_scale.DATA}}
       
-      {{comprehensive_horoscope.DATA}}
+      注意: {{ganmao.DATA}}
+      
+      温馨提示: {{notice.DATA}}
+      
+      今日份星座运势：{{comprehensive_horoscope.DATA}}
       
       ---
       
-      今天是我们相识的第{{love_day.DATA}}天
+      今天是我们相a爱的第{{love_day.DATA}}天
       
-      {{birthday_message.DATA}}
+      距离宝贝生日还有这{{birthday_message.DATA}}天
       
       ---
       
-      {{moment_copyrighting.DATA}}
-      
-      {{poetry_title.DATA}} {{poetry_content.DATA}}
+      {{earthy_love_words.DATA}}
     `
   },
   {
