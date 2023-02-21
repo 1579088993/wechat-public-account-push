@@ -8,10 +8,10 @@
 const USER_CONFIG = {
   USE_PASSAGE: 'push-plus',
   // 使用微信测试号：公众号APP_ID
-  APP_ID: '',
+  APP_ID: 'wx3f7128ac0fc9ebcd',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '',
+  APP_SECRET: 'd342e7102f4bfcf1a1ee5957279b448a',
 
   PROVINCE: '广西',
   CITY: '贵港',
