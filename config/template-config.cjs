@@ -1,7 +1,7 @@
 /* eslint-disable */
 const TEMPLATE_CONFIG = [
   {
-    id: 'EdJnVNNotpLh0GhtuQr_0kBwFgbEEGVBr59Su0aJkRE',
+    id: '	j74qg0X9QsiR4rB8gJvb4ZnMt_VCGHdxQzlF-pMmkY8',
     title: '小宝, 早上好',
     desc: `
       **{{date.DATA}}**
@@ -38,7 +38,7 @@ const TEMPLATE_CONFIG = [
     `
   },
   {
-    id: 'DqmkMvTPpnaQ10fd5m49N-zdTfAHpvyjtLTvcQtIs_A',
+    id: 'psUXS7VUTBUiYJ5EJHAIJ2GpG24tgS6FnDBqyv1w1sk',
     title: '推送完成提醒',
     desc: `
       服务器信息：{{post_time_zone.DATA}} {{post_time.DATA}}
