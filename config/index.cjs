@@ -11,7 +11,7 @@ const USER_CONFIG = {
   APP_ID: '',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '',
+  APP_SECRET: '5be920f3fd999b1ec144eb262b603fb1',
   
   MAX_PUSH_ONE_MINUTE:5,
   SLEEP_TIME: 65000,
@@ -23,7 +23,7 @@ const USER_CONFIG = {
 
     /** 节假日 */
     // 下一休息日综合提醒, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    holidaytts: false,
+    holidaytts: true,
 
     /** 每日N句 */
     // 金山每日一句, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
@@ -97,9 +97,9 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oKHZY67yMMsEVgZXHyPDEcbpxe-g',
+      id: 'o9Wpb60OOGAfcAwyPHZ-xR6alR0o',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'AnHaHJZi4djYSkpJzTnwlIC_4bNU8IgFsyAXqphMO2I',
+      useTemplateId: 'EdJnVNNotpLh0GhtuQr_0kBwFgbEEGVBr59Su0aJkRE',
       // 所在省份或城市，也可以不填
       province: '广西',
       // 所在城市或县区
@@ -136,13 +136,13 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '8UNw1ggRByngjEDvr43V71-8NVgae86iSIQt2thsnDI',
+  CALLBACK_TEMPLATE_ID: '	DqmkMvTPpnaQ10fd5m49N-zdTfAHpvyjtLTvcQtIs_A',
 
   CALLBACK_USERS: [
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oKHZY60ZN7cU3YtNQvVASVdQjBws',
+      id: 'o9Wpb60SgcuoqIYC60SIK4LTvkcY',
     }
   ],
 
