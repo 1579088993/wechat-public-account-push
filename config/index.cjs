@@ -8,7 +8,7 @@
 const USER_CONFIG = {
   USE_PASSAGE: 'wechat-test',
   // 使用微信测试号：公众号APP_ID
-  APP_ID: '',
+  APP_ID: 'wxe20b41d4e208aa19',
 
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '5be920f3fd999b1ec144eb262b603fb1',
@@ -95,7 +95,7 @@ const USER_CONFIG = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: '宝贝',
+      name: '小宝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'o9Wpb60OOGAfcAwyPHZ-xR6alR0o',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
@@ -136,7 +136,7 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '	DqmkMvTPpnaQ10fd5m49N-zdTfAHpvyjtLTvcQtIs_A',
+  CALLBACK_TEMPLATE_ID: 'DqmkMvTPpnaQ10fd5m49N-zdTfAHpvyjtLTvcQtIs_A',
 
   CALLBACK_USERS: [
     {
