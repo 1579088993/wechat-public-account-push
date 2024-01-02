@@ -99,7 +99,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'o9Wpb60OOGAfcAwyPHZ-xR6alR0o',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'EdJnVNNotpLh0GhtuQr_0kBwFgbEEGVBr59Su0aJkRE',
+      useTemplateId: '	j74qg0X9QsiR4rB8gJvb4ZnMt_VCGHdxQzlF-pMmkY8',
       // 所在省份或城市，也可以不填
       province: '广西',
       // 所在城市或县区
@@ -136,7 +136,7 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'DqmkMvTPpnaQ10fd5m49N-zdTfAHpvyjtLTvcQtIs_A',
+  CALLBACK_TEMPLATE_ID: '	psUXS7VUTBUiYJ5EJHAIJ2GpG24tgS6FnDBqyv1w1sk',
 
   CALLBACK_USERS: [
     {
