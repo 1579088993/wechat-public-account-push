@@ -99,7 +99,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'o9Wpb60OOGAfcAwyPHZ-xR6alR0o',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'tdw_269OH9Vit6cWr-uSx6JVDWIpg5fnoM2uXrtC8JU',
+      useTemplateId: 'tkGvfDva0pkoxEsoouyK3XfmJhOPtXThud_Ah8jBo04',
       // 所在省份或城市，也可以不填
       province: '广西',
       // 所在城市或县区
@@ -138,7 +138,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'o9Wpb60SgcuoqIYC60SIK4LTvkcY',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'tdw_269OH9Vit6cWr-uSx6JVDWIpg5fnoM2uXrtC8JU',
+      useTemplateId: 'tkGvfDva0pkoxEsoouyK3XfmJhOPtXThud_Ah8jBo04',
       // 所在省份或城市，也可以不填
       province: '广西',
       // 所在城市或县区
