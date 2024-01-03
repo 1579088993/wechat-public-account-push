@@ -27,8 +27,8 @@ const TEMPLATE_CONFIG = [
       今日份星座运势：{{comprehensive_horoscope.DATA}}
       
       ---
-      
-      今天是我们相a爱的第{{love_day.DATA}}天
+      今天是我们相爱的第{{love_day.DATA}}天
+      今天是我们相爱的第{{love_day.DATA}}天
       
       距离宝贝生日还有这{{birthday_message.DATA}}天
       
